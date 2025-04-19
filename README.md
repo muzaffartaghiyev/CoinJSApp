@@ -2,8 +2,8 @@
 
 This project is a dynamic and interactive application designed to search and display cryptocurrency details, including their prices, symbols, and performance changes. The app uses real-time data fetched from the CoinRanking API and showcases it in an intuitive user interface.
 
+[CLICK HERE TO SEE THE DEMO WEBSITE]()
 [CLICK HERE TO SEE THE DEMO WEBSITE](https://muzeffertagiyev.github.io/CoinJSApp/)
-
 ## Project Overview
 
 The **Crypto Coin App** allows users to:
